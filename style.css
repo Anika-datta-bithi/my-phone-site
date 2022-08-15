@@ -1,0 +1,155 @@
+.fl {
+    display: flex;
+    background-color: black;
+    padding-left: 20px;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.mr {
+    margin: 25px;
+
+}
+
+.dis {
+    padding-top: 80px;
+    display: flex;
+    width: 80%;
+    height: 470px;
+}
+
+.span1 {
+    color: blue;
+    font-size: 15px;
+}
+
+.new {
+    margin-left: 10px;
+}
+
+#size1 {
+    width: 70%;
+    text-align: right;
+
+}
+
+#size2 {
+    width: 30%;
+    display: contents;
+
+}
+
+#size1 h1 {
+    font-size: 55px;
+}
+
+#size1 i {
+    margin-left: 7px;
+}
+
+#size1 h2 {
+    font-size: 30px;
+}
+
+#size1 p {
+    color: blue;
+}
+
+.iphone h1 {
+    font-size: 50px;
+}
+
+.iphone h2 {
+    font-size: 30px;
+}
+
+.img {
+    display: table-row;
+}
+
+.ip h1 {
+    font-size: 30px;
+
+}
+
+.ip {
+    margin-left: 20px;
+    width: 50%;
+}
+
+.ip p {
+    font-size: 20px;
+}
+
+.di {
+    padding-top: 140px;
+    display: flex;
+}
+
+.ip1 {
+    width: 50%;
+    background-image: linear-gradient(black, rgb(36, 2, 2));
+    color: white;
+}
+
+.ip1 h1 {
+    font-size: 30px;
+}
+
+.color {
+    color: blue;
+}
+
+.dot {
+    font-size: 20px;
+}
+
+.ip1 img {
+    width: 500px;
+}
+
+.ip3 img {
+    width: 500px;
+}
+
+.ip3 h1 {
+    font-size: 40px;
+}
+
+#thir {
+    color: indianred;
+}
+
+.ip3 h5 {
+    color: brown;
+    font-size: 20px;
+}
+
+.de {
+    padding-top: 20px;
+    display: flex;
+}
+
+.ip3 {
+    margin-left: 10px;
+    background-color: blanchedalmond;
+}
+
+.ip3 i {
+    color: darkblue;
+}
+
+.ip3 em {
+    color: lightseagreen;
+}
+
+.it {
+    font-size: 22px;
+}
+
+.ip3 {
+
+    width: 50%;
+
+}
